@@ -14,8 +14,9 @@
 - Social media icons in the footer using Bootstrap Icons
 
 - Custom styles for spacing, typography, hover effects, and color customization
+- 
+![image](https://github.com/user-attachments/assets/84e47355-1d4b-4ca1-bada-fc33b0e018a1)
 
-![image](https://github.com/user-attachments/assets/b6e025a3-1662-4820-84d8-e093ba379084)
 ![image](https://github.com/user-attachments/assets/f756d31f-fb65-4b4c-b620-4b4ec44ec33e)
 
 Tested responsiveness on different screen sizes  ex ipad pro
